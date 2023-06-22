@@ -1,2 +1,2 @@
 # Ukkonen
-Ukkonen algorithm
+Ukkonen algorithm to create a suffix array of the input. 
